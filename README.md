@@ -1,1 +1,1 @@
-# FAQ
+# Go to wiki
